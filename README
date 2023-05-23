@@ -2,6 +2,10 @@ slock - simple screen locker
 ============================
 simple screen locker utility for X.
 
+Patch
+------------
+- message: https://tools.suckless.org/slock/patches/message
+- alpha: https://github.com/khuedoan/slock/commit/5e7a95b50fd72efcf2a40d487278749a17cbb146
 
 Requirements
 ------------
