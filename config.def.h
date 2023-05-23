@@ -12,10 +12,10 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* default message */
-static const char * message = "Suckless: Software that sucks less.";
+static const char * message = "Enter password to unlock";
 
 /* text color */
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "6x10";
+static const char * font_name = "-misc-dejavu sans mono-medium-r-normal--0-0-0-0-m-0-iso10646-1";
