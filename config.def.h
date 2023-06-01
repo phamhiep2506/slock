@@ -22,4 +22,4 @@ static const char * message = "Enter password to unlock";
 static const char * text_color = "#EBDBB2";
 
 /* text size (must be a valid size) */
-static const char * font_name = "-misc-dejavu sans mono-medium-r-normal--0-0-0-0-m-0-iso10646-1";
+static const char * font_name = "-misc-fixed-medium-r-normal--0-0-100-100-c-0-iso10646-1";
